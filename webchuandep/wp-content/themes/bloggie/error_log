@@ -1,0 +1,1 @@
+[24-Dec-2013 18:20:45 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home/mythemes/public_html/demo/wp-content/themes/bloggie/index.php on line 1

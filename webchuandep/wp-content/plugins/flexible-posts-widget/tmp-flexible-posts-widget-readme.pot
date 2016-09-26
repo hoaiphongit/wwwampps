@@ -1,0 +1,454 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Flexible Posts Widget"
+msgstr ""
+
+#. Short description.
+msgid "An advanced posts display widget with many options. Display posts in your sidebars any way you&#039;d like!"
+msgstr ""
+
+#. Screenshot description.
+msgid "Configuring a FPW in wp-admin with the Post Type tab displayed."
+msgstr ""
+
+#. Screenshot description.
+msgid "Configuring a FPW in wp-admin with the Taxonomy &amp; Term tab displayed."
+msgstr ""
+
+#. Screenshot description.
+msgid "Configuring a FPW in wp-admin with the ID tab displayed."
+msgstr ""
+
+#. Screenshot description.
+msgid "An example FPW displayed using WordPress's TwentyTwelve theme and the default Feature Image (post-thumbnail) size.  This demonstrates how the plugin looks out-of-the-box with no user-customized styling or output in a default theme."
+msgstr ""
+
+#. Screenshot description.
+msgid "In the Wild: FPW displaying a selection of featured beers (Post Type: Brew) over at http://canalparkbrewery.com.  This example uses slightly customized output and some theme-specific styles."
+msgstr ""
+
+#. Screenshot description.
+msgid "In the wild: FPW displaying a selection media attachments, with custom thumbnails.  This example uses highly customized HTML output and very theme-specific styles."
+msgstr ""
+
+#. Screenshot description.
+msgid "In the wild: FPW displaying several posts over at http://chnl7700.mnsu.edu.  Also highly customized output and theme styles."
+msgstr ""
+
+#. Found in description header.
+msgid "Features &amp; options"
+msgstr ""
+
+#. Found in description header.
+msgid "Supported Languages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Customizable widget title"
+msgstr ""
+
+#. Found in description list item.
+msgid "Get posts by post type(s) and/or taxonomy &amp; term(s) or directly by a list of post IDs."
+msgstr ""
+
+#. Found in description list item.
+msgid "Control the number of posts displayed and the number of posts to offset."
+msgstr ""
+
+#. Found in description list item.
+msgid "Option to display the post feature image."
+msgstr ""
+
+#. Found in description list item.
+msgid "Select the post feature image size to display from existing image sizes: thumbnail, medium, large, post-thumbnail or any size defined by the current theme."
+msgstr ""
+
+#. Found in description list item.
+msgid "Order posts by: date, modified date, ID, title, menu order, random, Post ID Order; and sort posts: ascending or descending."
+msgstr ""
+
+#. Found in description list item.
+msgid "Each widget's output can be customized by user-defined templates added to the current theme folder."
+msgstr ""
+
+#. Found in description list item.
+msgid "Multi Language support. Compatible with <a href=\"http://wpml.org/\">WPML</a> and <a href=\"https://wordpress.org/plugins/polylang/\">PolyLang</a> for sure. Not tested with other multi-language plugins, but it should work."
+msgstr ""
+
+#. Found in description list item.
+msgid "English"
+msgstr ""
+
+#. Found in description list item.
+msgid "Finnish"
+msgstr ""
+
+#. Found in description list item.
+msgid "Italian"
+msgstr ""
+
+#. Found in description list item.
+msgid "Polish"
+msgstr ""
+
+#. Found in description list item.
+msgid "Russian"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The default Recent Posts widget is exceptionally basic. I always find myself in need of a way to easily display a selection of posts from any combination post type or taxonomy. Hence, Flexible Posts Widget."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Flexible Posts Widget (FPW) is more than just a simple alternative to the default Recent Posts widget.  With many per-instance options it is highly customizable and allows advanced users to display the resulting posts virtually any way imaginable."
+msgstr ""
+
+#. Found in installation header.
+msgid "To use a custom HTML output template"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the <code>flexible-posts-widget</code> folder to the <code>/wp-content/plugins/</code> directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to 'Appearance' &gt; 'Widgets' and place the widget into a sidebar to configure it."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Create a folder called <code>flexible-posts-widget</code> in the root folder of the currently active theme."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Copy <code>widget.php</code> from within the plugin's <code>views</code> folder into your theme's new <code>flexible-posts-widget</code> folder."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Rename your theme's <code>widget.php</code> template file to a name of your choice. Example: <code>my-template.php</code>."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to 'Appearance' &gt; 'Widgets' in WordPress to configure an instance of the widget."
+msgstr ""
+
+#. Found in installation list item.
+msgid "In the 'Template Filename' field choose the name of the template file you added to your theme. Example: <code>My Template</code>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Major codebase rewrite to prepare for additional widgets, options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Automatically updates any widget settings when the plugin is updated to a new version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multi Language support (WPML &amp; PolyLang)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Term selection box now uses built-in WordPress function <a href=\"http://codex.wordpress.org/Function_Reference/wp_terms_checklist\"><code>wp_terms_checklist()</code></a>. This provides support for visually displaying nested terms and brings the plugin into compliance with WordPress code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Version bump for WordPress 4.1 support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Finnish language support. (Props: @eccola)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made the Template Filename field a select box based on the templates available in the current theme, the parent theme (if the current theme is a child theme) and the plugin's views folder. (Props @w3b-beweb)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a new default template <code>Default.php</code> that works better in most sidebar situations.  The current default template <code>Widget.php</code> will be used by any existing widgets unless manually changed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support to order posts by Modified Date."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Migrated admin CSS to SASS."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Much code clean up and refactoring."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue with language files not loading properly (Props @sajtdavid)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added plugin icon."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Version bump for WordPress 4.0 support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactored the PHP Class to encapsulate the plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to sort posts by \"Post ID Order\".  Useful when getting posts using the ID tab <code>post__in</code>. (Props: @cinus89)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Russian translation. (Props: @mizhgun)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested To bump for WordPress 3.9 support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Version bump for WordPress 3.8 support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Italian language support. (Props: @adriano-esposito)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to ignore sticky posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support to get post by post ID directly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Polish language support. (Props: @Invens)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a few filters: <code>dpe_fpw_args</code> to filter the query vars before submitting the query and <code>dpe_fpw_template_{$template_name}</code> to filter the selected template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed several pesky PHP notices. (Props: @eeb1)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed incorrect use of rtrim in getTemplateHierarchy when getting custom template files. (Props: @mortenf) "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Internationalized and added Spanish language support. (Props: @elarequi)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for Media post types with \"image/\" mime types to be displayed directly in the default template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Added a check to make sure both taxonomy &amp; term are set for tax queries."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Not able to get all registered post types &amp; taxonomies until after widget init.  Had to reorder some code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: when getting post types for display in widget admin. (Props: @angelfish276)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow widgets to query by post type and/or taxonomy &amp; term instead of just one or the other. (Props: @vernal)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow widgets to query by multiple post types and multiple terms within the same taxonomy.  (Props: @vernal)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the list of available post types and taxonomies from every possible option to just those that are public."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "General UI enhancements for the widget admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some minor code cleanup and security improvements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a source order bug in the widget.php template file. (Props: @carstenbach)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added offset parameter to display options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<em>Upgrade notice:</em> When upgrading from v1.x.x to v2.x, remember to double-check the settings for any existing widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dynamically populate available terms based on selected taxonomy."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Make the \"Get Posts By\" section selectable and only show the chosen method: Taxonomy &amp; Term or Post Type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Miscellaneous admin improvements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Removed post_status 'private' from wp_queries. We don't want to show private posts in our loops."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue where post thumbnails aren't displaying."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed PHP notices that showed in the admin when WP_DEBUG is enabled"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added some stub code for future admin JavaScripts (not active yet)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Readme.txt updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First public release"
+msgstr ""
+
+#. Found in faq header.
+msgid "How does the \"Comma-separated list of post IDs\" work?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I find a post's ID?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I display custom fields (custom meta values) with FPW?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I style the images, titles or other widget output a certain way?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does this plugin/widget insert any styles or scripts into my site?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Want to add support for another language?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Questions, Support &amp; Bug Reports"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The third option (tab) available for getting posts is directly with a list of post IDs.  If there is a value in this field, any settings in the \"Post Type\" or \"Taxonomy &amp; Term\" tabs will be ignored and all public post types will be queried for the specific post IDs provided.  All the other widget options (Display, Thumbnails and Template settings) will still be applied."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Per a <a href=\"http://wordpress.org/support/topic/where-can-find-the-post-id\">WordPress support thread</a>:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Go to Posts in your WordPress admin, and click the post you need the ID of. Then, if you look in the address bar of your browser, you'll see something like this:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The number, in this case 1280, is the post ID."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You'll want to create a custom HTML template by following <a href=\"http://wordpress.org/extend/plugins/flexible-posts-widget/installation/\" title=\"View instructions for creating custom FPW templates\">the instructions</a> and then you can use the standard WordPress <a href=\"http://codex.wordpress.org/Custom_Fields\" title=\"View custom field functions on the WordPress Codex\">Custom Field</a> functions the same way you would if you were editing your theme's other template files."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A simple code example for a custom field named \"test_field\" <em>might</em> look like the following:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "FPW intentionally does NOT add any styling of it's own.  To adjust the font size, color, alignment, image size, etc. of any output from this widget, you'll need to edit your theme's styles."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "FPW does not add styles or scripts to your public theme.  The plugin is intentionally designed to work within your existing theme.  FPW does add one stylesheet and one JavaScript to the Widgets page in wp-admin to help with the administration of any FPWs in use."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "I'd love to support more languages.  The plugin's POT file is available with the download.  Feel free to post PO &amp; MO files for your language to a <a href=\"http://wordpress.org/tags/flexible-posts-widget/\">new forum thread</a> and I'll get them added to the plugin."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "To get answers to your questions, request help or submit a bug report, please start a <a href=\"http://wordpress.org/tags/flexible-posts-widget/\">new forum thread</a>."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Other Notes"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Plugin Hooks"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Future updates &amp; feature requests list"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Filter: <a href=\"https://plugins.trac.wordpress.org/browser/flexible-posts-widget/trunk/includes/class-fpw-widget.php#L191\"><code>dpe_fpw_args</code></a> allows filtering the query vars before submitting the widget posts query."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Filter: <a href=\"https://plugins.trac.wordpress.org/browser/flexible-posts-widget/trunk/includes/class-fpw-widget.php#L354\"><code>dpe_fpw_template_{$template_name}</code></a> filters the template file path used to display the widget output."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Use search box instead of ID text field for post id's"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Shortcode functionality."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Get posts by Author."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Filter out the post currently being viewed."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Get posts from the same archive (term/post type/etc)."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Limit results by a time period."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Flexible posts widget currently has two public hooks:"
+msgstr ""
